@@ -1,0 +1,9 @@
+#address formator using separator.
+
+Name =input("Enter your name:")
+Street=input("Enter your street:")
+City=input("Enter your city:")
+State=input("Enter your state:")
+
+print("\nYour address:")
+print(Name,Street,City,State, sep=(", "))
