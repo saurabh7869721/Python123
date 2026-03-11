@@ -7,3 +7,16 @@ State=input("Enter your state:")
 
 print("\nYour address:")
 print(Name,Street,City,State, sep=(", "))
+
+
+#shopping bill generator using seprator.
+
+item1=input("Enter item name:")
+item2=input("Enter item name:")
+item3=input("Enter item name:")
+
+
+print("\nShopping bill")
+
+print(item1,item2,item3, sep=" ->")
+
