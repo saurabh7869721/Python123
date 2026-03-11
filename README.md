@@ -1,2 +1,2 @@
 # Python123
-For practice some python projects
+student report card project 
