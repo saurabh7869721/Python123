@@ -20,3 +20,13 @@ print("\nShopping bill")
 
 print(item1,item2,item3, sep=" ->")
 
+#Comtact list printer using seprator method.
+
+Name=input("Enter your name:")
+Phone_number=input("Enter your phone number:")
+Email=input("Enter your Email:")
+
+print("\n______contact list______")
+print(Name,Phone_number,Email, sep=" _ ")
+
+
