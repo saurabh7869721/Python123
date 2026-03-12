@@ -1,8 +1,17 @@
 # Number pattern printer using end parameter
 
 
-number=int(input("Enter number:"))
+num=int(input("Enter number:"))
 
-for i in range(0,number+1):
+for i in range(1,num+1):
 
     print(i, end=("  "))
+
+
+#multiplication table printer.
+
+
+num=int(input("Enter number:"))
+
+for i in range(1,11):
+    print(num*i, end=(" "))
