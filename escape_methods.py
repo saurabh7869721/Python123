@@ -13,4 +13,5 @@ print("\\users\\saurabh\\documents")
 #print python using \".
 
 print("HE said \"python is easy\"")
-print('programmers sugest \'python\'for programming.\nEven\"Cisco\" also uses python for programming.')
+print('programmers sugest \'python\'for programming.')
+print("Even\"Cisco\" also uses python for programming.")
